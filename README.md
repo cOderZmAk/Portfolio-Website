@@ -24,7 +24,6 @@ This project is a responsive and modern personal portfolio website built using *
 ## 🚀 Live Demo
 
 🌍 [View the live site here](https://your-username.github.io/portfolio)  
-*(Replace the link with your actual live URL)*
 
 ## 🧰 Installation & Setup
 
